@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-I'm an enthusiastic and detail-oriented professional a **Certified in Investment Banking Operations (CIBOP)** from Imarticus Learning. My experience includes working with **HSBC Bank, ICICI Lombard, and SBI General Insurance** in roles involving:
+I'm an enthusiastic and detail-oriented professional with a **Certification in Investment Banking Operations (CIBOP)** from Imarticus Learning. My experience includes working with **HSBC Bank, ICICI Lombard, and SBI General Insurance** in roles involving:
 
 - Credit Risk & Financial Analysis  
 - Investment Banking Operations  
