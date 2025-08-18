@@ -7,11 +7,11 @@
 
 ## 💡 About Me
 
-I'm an enthusiastic and detail-oriented professional with a **Certification in Investment Banking Operations (CIBOP)** from Imarticus Learning. My experience includes working with **HSBC Bank, ICICI Lombard, and SBI General Insurance** in roles involving:
+I'm an enthusiastic and detail-oriented professional with a **Certification in Investment Banking Operations (CIBOP)** from Imarticus Learning. My experience includes working with **HSBC Corporate Banking, ICICI Lombard, and SBI General Insurance** in roles involving:
 
-- Credit Risk & Financial Analysis  
-- Investment Banking Operations  
-- Stakeholder Management  
+- Stakeholder Management   
+- Financial Analysis & Credit Risk verification
+- Risk & compliance Analysis 
 - Data Visualization using **Power BI** & **Tableau**  
 - AML/KYC Due Diligence  
 - CRM Tools & Excel Automation  
@@ -20,7 +20,7 @@ I'm an enthusiastic and detail-oriented professional with a **Certification in I
 
 ## 🧠 Skills
 
-- **Tools & Tech**: Excel (Advanced), Power BI, Tableau, Jira, CRM Tools, MS Office  
+- **Tools & Tech**: Excel (Advanced), Power BI, Tableau, Jira, Omniflow, Adobe, CRM Tools, MS Office  
 - **Finance Domain**: Financial Statement Analysis, Risk Management, AML/KYC, Trade Life Cycle  
 - **Soft Skills**: Leadership, Public Speaking, Team Management, Problem Solving, Communication
 
