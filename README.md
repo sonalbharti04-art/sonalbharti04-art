@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Sonal Bharti
 
 🎓 **MBA in Marketing & Finance** | 💼 **3+ Years of Experience in the BFSI Sector**  
-🔍 Aspiring for roles in **Investment Banking Operations | Business Analysis | Credit Risk Analysis | Team Management Roles**
+🔍 Aspiring for roles in **Investment Banking Operations | Business Analysis | Risk & Compliance| Credit Risk Analysis**
 
 ---
 
